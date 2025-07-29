@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AabhasNama001
-- 👀 I’m interested in Front-end Development, UI Designing.
-- 🌱 I’m currently working with the technologies based on Javascript such as React.js, JS DOM.
+- 👀 I’m interested in Full-Stack Development, UI Designing.
+- 🌱 I’m currently working with React.js for the frontend, Node/Express for the backend, and MongoDB for data storage.
 - 💞️ I’m looking to collaborate on positions of Front end Developer, Wordpress Developer and Shopify Developer.
 - 📫 How to reach me :-
 -                       My Linkedin Profile:- https://www.linkedin.com/in/aabhas-nama/
